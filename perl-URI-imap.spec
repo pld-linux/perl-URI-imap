@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	URI
-%define	pnam	imap
+%define		pdir	URI
+%define		pnam	imap
 Summary:	URI::imap - Support IMAP URI
 Summary(pl):	URI::imap - Wsparcie dla URI IMAP
 Name:		perl-URI-imap
