@@ -10,7 +10,7 @@ Summary(pl):	URI::imap - Wsparcie dla URI IMAP
 Name:		perl-URI-imap
 Version:	1.01
 Release:	1
-# same as perl (REMOVE THIS LINE IF NOT TRUE)
+# same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
