@@ -6,7 +6,7 @@
 %define		pdir	URI
 %define		pnam	imap
 Summary:	URI::imap - Support IMAP URI
-Summary(pl.UTF-8):   URI::imap - Wsparcie dla URI IMAP
+Summary(pl.UTF-8):	URI::imap - Wsparcie dla URI IMAP
 Name:		perl-URI-imap
 Version:	1.01
 Release:	1
